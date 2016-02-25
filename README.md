@@ -22,7 +22,7 @@ Exercises from each theme will weight 1/3 in the total final grade. Each exercis
 
 _Drafts must include a description of the chosen use case (dataset/algorithm, etc.) for each exercise and a first approach (albeit incomplete) to the solution. Failure to deliver drafts will incur in a 50% penalty in the theme grade_
 
-## 1. Visualization
+## Theme 1. Visualization
 **1.1 Introduction to Jupyter Notebooks**
 <small>[Learn Python](http://www.learnpython.org/) - [Wakari Notebooks Gallery](https://www.wakari.io/gallery) - [Numpy Quickstart](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html) - [Pandas Cookbook](https://github.com/jvns/pandas-cookbook)</small>
 
@@ -46,7 +46,7 @@ _Drafts must include a description of the chosen use case (dataset/algorithm, et
 
 **SOME DATASOURCES**: https://data.cityofboston.gov/ https://data.nasa.gov/ https://data.cityofchicago.org/ http://transtats.bts.gov/ http://catalog.data.gov/ http://www.kaggle.com
 
-## 2. Computing for mathematical modelling
+## Theme 2. Computing for mathematical modelling
 **2.1 Solving ODEs** [SciPy](http://www.scipy.org)
 
 **2.2 Symbolic Computing** [SymPy] (http://www.sympy.org/) - [SAGE](http://www.sagemath.org)
@@ -65,7 +65,7 @@ _Drafts must include a description of the chosen use case (dataset/algorithm, et
 
 
 
-## 3. Scaling computing
+## Theme 3. Scaling computing
 **3.1 Vectorizing functions** [NumPy ufuncs](http://docs.scipy.org/doc/numpy-1.10.0/reference/ufuncs.html)
 
 **3.2 IPython parallelization** [IPython parallel](https://ipython.org/ipython-doc/3/parallel/)
