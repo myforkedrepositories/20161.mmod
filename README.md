@@ -1,6 +1,6 @@
 # Mathematical Modelling I<br/>_Tools for mathematical modelling_
 
-This course will have three themes, described below. Exercised from each theme will weight 1/3 in the total final grade.
+This course will have three themes, described below. Exercises from each theme will weight 1/3 in the total final grade.
 
 ## Dates
 
