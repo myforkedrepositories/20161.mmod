@@ -1,6 +1,15 @@
 # Mathematical Modelling I<br/>_Tools for mathematical modelling_
 
-This course will have three themes, described below. Exercises from each theme will weight 1/3 in the total final grade.
+This course will have three themes, described below. 
+
+## Grading
+
+Exercises from each theme will weight 1/3 in the total final grade. Each exercise is to be delivered through a single IPython notebook and will be graded according to the following equally-weighted criteria (from 0 to 5):
+
+- **1. Completion**: it contains what was requested
+- **2. Clean code**: the code is clean, commented and understandable
+- **3. Expressivity**: exploits the notebook documentation capabilities to offer sufficient verbose decription
+- **4. Difficulty**: of the problem/dataset/algorithm/approach chosen
 
 ## Dates
 
@@ -11,7 +20,7 @@ This course will have three themes, described below. Exercises from each theme w
 30/Jun: Drafts for exercises Theme 3<br/>
 15/Jun: Exercises Theme 3<br/>
 
-_failure to deliver drafts will incur in a 50% penalty in the theme grade_
+_Drafts must include a description of the chosen use case (dataset/algorithm, etc.) for each exercise and a first approach (albeit incomplete) to the solution. Failure to deliver drafts will incur in a 50% penalty in the theme grade_
 
 ## 1. Visualization
 **1.1 Introduction to Jupyter Notebooks**
