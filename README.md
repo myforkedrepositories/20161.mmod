@@ -14,11 +14,11 @@ Exercises from each theme will weight 1/3 in the total final grade. Each exercis
 ## Dates
 
 31/Mar: Drafts for exercises Theme 1<br/>
-15/Apr: Exercises Theme 1<br/>
+**15/Apr: Exercises Theme 1<br/>**
 15/May: Drafts for exercises Theme 2<br/>
-31/May: Exercises Theme 2<br/>
+**31/May: Exercises Theme 2<br/>**
 30/Jun: Drafts for exercises Theme 3<br/>
-15/Jun: Exercises Theme 3<br/>
+**15/Jun: Exercises Theme 3<br/>**
 
 _Drafts must include a description of the chosen use case (dataset/algorithm, etc.) for each exercise and a first approach (albeit incomplete) to the solution. Failure to deliver drafts will incur in a 50% penalty in the theme grade_
 
