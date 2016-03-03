@@ -44,7 +44,7 @@ _Drafts must include a description of the chosen use case (dataset/algorithm, et
 
 **EXERCISE 1.C**: Select time series data and build a data streaming example, using Bokeh or Plot.ly 
 
-**SOME DATASOURCES**: https://data.cityofboston.gov/ https://data.nasa.gov/ https://data.cityofchicago.org/ http://transtats.bts.gov/ http://catalog.data.gov/ http://www.kaggle.com [example story Boston data]([here](https://data.cityofboston.gov/Transportation/MBTA-Bus-Location-Data/y4kc-jxaa))
+**SOME DATASOURCES**: https://data.cityofboston.gov/ https://data.nasa.gov/ https://data.cityofchicago.org/ http://transtats.bts.gov/ http://catalog.data.gov/ http://www.kaggle.com [example story Boston data](https://data.cityofboston.gov/Transportation/MBTA-Bus-Location-Data/y4kc-jxaa)
 
 ## Theme 2. Computing for mathematical modelling
 **2.1 Solving ODEs** [SciPy](http://www.scipy.org)
