@@ -20,6 +20,9 @@ Exercises from each theme will weight 1/3 in the total final grade. Each exercis
 30/Jun: Drafts for exercises Theme 3<br/>
 **15/Jun: Exercises Theme 3<br/>**
 
+17/Jun: Classes end<br/>
+20/Jun: Grade submissions closes<br/>
+
 _Drafts must include a description of the chosen use case (dataset/algorithm, etc.) for each exercise and a first approach (albeit incomplete) to the solution. Failure to deliver drafts will incur in a 50% penalty in the theme grade_
 
 ## Theme 1. Visualization
