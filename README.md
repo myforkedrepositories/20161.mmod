@@ -14,7 +14,7 @@ Exercises from each theme will weight 1/3 in the total final grade. Each exercis
 ## Dates
 
 31/Mar: Drafts for exercises Theme 1<br/>
-**15/Apr: Exercises Theme 1<br/>**
+**17/Apr: Exercises Theme 1: 1A + 1B<br/>**
 15/May: Drafts for exercises Theme 2<br/>
 **31/May: Exercises Theme 2<br/>**
 30/Jun: Drafts for exercises Theme 3<br/>
