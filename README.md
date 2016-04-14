@@ -1,4 +1,4 @@
-# Tools for mathematical modelling
+# Tools for Mathematical Modelling
 
 This course will have three themes, described below. 
 
