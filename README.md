@@ -32,7 +32,7 @@ _Drafts must include a description of the chosen use case (dataset/algorithm, et
 **1.2 Libraries: Matplotlib, Bokeh, Plotly**
 <small>[Matplotlib Gallery](http://matplotlib.org/gallery.html) - [Bokeh notebooks Gallery](https://github.com/bokeh/bokeh-notebooks) - [Plotly notebooks Gallery](https://plot.ly/python/)</small>
 
-**1.3 Interactivity**: <small>[Bokeh Widgets](http://bokeh.pydata.org/en/0.10.0/docs/user_guide/interaction.html)</small> [bokeh server examples](https://github.com/bokeh/bokeh/tree/master/examples/plotting/server) [linking and brushing](https://www.wikiwand.com/en/Brushing_and_linking)
+**1.3 Interactivity and Data Streaming**: <small>[Bokeh Widgets](http://bokeh.pydata.org/en/0.10.0/docs/user_guide/interaction.html)</small> [bokeh server examples](https://github.com/bokeh/bokeh/tree/master/examples/plotting/server) [linking and brushing](https://www.wikiwand.com/en/Brushing_and_linking)
 
 **1.4 Big Data Visualization**
 <small>[Big Data plotting problems](https://anaconda.org/jbednar/plotting_problems/notebook) - [Plotting NYC taxi data](https://anaconda.org/jbednar/nyc_taxi/notebook) - [Datashader](https://github.com/bokeh/datashader)</small>
