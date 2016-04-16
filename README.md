@@ -52,7 +52,7 @@ _Drafts must include a description of the chosen use case (dataset/algorithm, et
 ## Theme 2. Computing for mathematical modelling
 **2.1 Symbolic Computing** [SymPy Website] (http://www.sympy.org/) - [SymPy Tutorial](https://minireference.com/static/tutorials/sympy_tutorial.pdf) - [Lecture Notes on SymPy](http://www.c3se.chalmers.se/common/python_course_2012/Lecture10_SymPy_2012.pdf)
 
-**2.2 Solving ODEs** [ODEs in SymPy](http://docs.sympy.org/0.7.6/modules/mpmath/calculus/odes.html) [Introduction to Differential Equations](https://courses.edx.org/courses/course-v1%3ABUx%2BMath226.1x%2B1T2016/)
+**2.2 Solving ODEs** [ODEs in SymPy](http://docs.sympy.org/0.7.6/modules/mpmath/calculus/odes.html) - [Introduction to Differential Equations](https://courses.edx.org/courses/course-v1%3ABUx%2BMath226.1x%2B1T2016/)
 
 **2.3 Animating mathematical models** [Matplotlib animations](http://matplotlib.org/1.5.1/examples/animation/index.html)
 
