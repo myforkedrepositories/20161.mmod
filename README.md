@@ -32,7 +32,7 @@ _Drafts must include a description of the chosen use case (dataset/algorithm, et
 **1.2 Libraries: Matplotlib, Bokeh, Plotly**
 <small>[Matplotlib Gallery](http://matplotlib.org/gallery.html) - [Bokeh notebooks Gallery](https://github.com/bokeh/bokeh-notebooks) - [Plotly notebooks Gallery](https://plot.ly/python/)</small>
 
-**1.3 Interactivity and Data Streaming**: <small>[Bokeh Widgets](http://bokeh.pydata.org/en/0.10.0/docs/user_guide/interaction.html)</small> [bokeh server examples](https://github.com/bokeh/bokeh/tree/master/examples/plotting/server) [linking and brushing](https://www.wikiwand.com/en/Brushing_and_linking)
+**1.3 Interactivity and Data Streaming**: <small>[Bokeh Widgets](http://bokeh.pydata.org/en/0.10.0/docs/user_guide/interaction.html)</small> - [Bokeh server examples](https://github.com/bokeh/bokeh/tree/master/examples/plotting/server) - [Linking and brushing](https://www.wikiwand.com/en/Brushing_and_linking)
 
 **1.4 Big Data Visualization**
 <small>[Big Data plotting problems](https://anaconda.org/jbednar/plotting_problems/notebook) - [Plotting NYC taxi data](https://anaconda.org/jbednar/nyc_taxi/notebook) - [Datashader](https://github.com/bokeh/datashader)</small>
@@ -50,9 +50,9 @@ _Drafts must include a description of the chosen use case (dataset/algorithm, et
 **SOME DATASOURCES**: https://data.cityofboston.gov/ https://data.nasa.gov/ https://data.cityofchicago.org/ http://transtats.bts.gov/ http://catalog.data.gov/ http://www.kaggle.com [example story Boston data](https://data.cityofboston.gov/Transportation/MBTA-Bus-Location-Data/y4kc-jxaa)
 
 ## Theme 2. Computing for mathematical modelling
-**2.1 Solving ODEs** [SciPy](http://www.scipy.org)
+**2.1 Symbolic Computing** [SymPy Website] (http://www.sympy.org/) - [SymPy Tutorial](https://minireference.com/static/tutorials/sympy_tutorial.pdf) - [Lecture Notes on SymPy](http://www.c3se.chalmers.se/common/python_course_2012/Lecture10_SymPy_2012.pdf)
 
-**2.2 Symbolic Computing** [SymPy] (http://www.sympy.org/) - [SAGE](http://www.sagemath.org)
+**2.2 Solving ODEs** [ODEs in SymPy](http://docs.sympy.org/0.7.6/modules/mpmath/calculus/odes.html) - [Introduction to Differential Equations](https://courses.edx.org/courses/course-v1%3ABUx%2BMath226.1x%2B1T2016/)
 
 **2.3 Animating mathematical models** [Matplotlib animations](http://matplotlib.org/1.5.1/examples/animation/index.html)
 
