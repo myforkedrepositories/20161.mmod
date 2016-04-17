@@ -63,6 +63,7 @@ _Drafts must include a description of the chosen use case (dataset/algorithm, et
 
 **EXERCISE 2.B**: Use matplotlib animations to:
   - Create two animations illustrating key aspects of your model.
+  - If you use a numerical method, show first that the symbolic solver fails.
 
 **EXERCISE 2.C**: Disseminate your work:
    - Create a presentation from your notebook in 2.A)
