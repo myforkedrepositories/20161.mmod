@@ -54,7 +54,9 @@ _Drafts must include a description of the chosen use case (dataset/algorithm, et
 
 **2.2 Solving ODEs** [ODEs in SymPy](http://docs.sympy.org/0.7.6/modules/mpmath/calculus/odes.html) - [Introduction to Differential Equations](https://courses.edx.org/courses/course-v1%3ABUx%2BMath226.1x%2B1T2016/)
 
-**2.3 Animating mathematical models** [Matplotlib animations](http://matplotlib.org/1.5.1/examples/animation/index.html)
+**2.3 Numerical integration** [SciPy Cookbook](http://scipy-cookbook.readthedocs.org/)
+
+**2.4 Animating mathematical models** [Matplotlib animations](http://matplotlib.org/1.5.1/examples/animation/index.html)
 
 **EXERCISE 2.A**: Choose a problem solvable with ODEs:
   - Define, solve and visualize a mathematical model
