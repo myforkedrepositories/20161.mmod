@@ -83,3 +83,7 @@ _Drafts must include a description of the chosen use case (dataset/algorithm, et
 **EXERCISE 3.A**: Vectorization and Just in time compilation (in Problemset 03 A)
 
 **EXERCISE 3.B**: Monte Carlo with IPython Parallel (in ProblemSet 03 B)
+
+## EXTRA GRADING: 
+- Run your code in Guane at www.sc3.uis.edu.co (5% additional in the total course grade for each exercise up to a maximum of 15%)
+- Only valid for the following exercises: 1A, 2A, 3A, 3B
