@@ -80,11 +80,10 @@ _Drafts must include a description of the chosen use case (dataset/algorithm, et
 
 **3.4 Theano: Fast symbolic computing** [Theano](http://deeplearning.net/software/theano/)
 
-**EXERCISE 3.A**: Parallelize an algorithm through vectorization (Numpy or Numba)
-  - measure its scalability with increasing cores and data
+**EXERCISE 3.A**: Vectorization and Just in time compilation (in Problemset 03 A)
 
-**EXERCISE 3.B**: Parallelize an algorithm with iPython parallel
-  - measure its scalability with increasing cores and data
-  
-**EXERCISE 3.C**: Use Theano to solve an optimization problem through gradient descent
-  - measure its performance in CPU + GPU
+**EXERCISE 3.B**: Monte Carlo with IPython Parallel (in ProblemSet 03 B)
+
+## Extra grading: 
+- Run your code in Guane at www.sc3.uis.edu.co (5% additional in the total course grade for each exercise up to a maximum of 15%)
+- Only valid for the following exercises: 1A, 2A, 3A, 3B
